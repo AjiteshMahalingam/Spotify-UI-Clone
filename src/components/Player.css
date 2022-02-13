@@ -1,0 +1,7 @@
+.player__body {
+  display: flex;
+}
+.player {
+  height: 90vh;
+  scrollbar-width: none;
+}
